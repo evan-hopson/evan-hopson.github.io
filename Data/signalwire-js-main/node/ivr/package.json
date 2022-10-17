@@ -10,7 +10,7 @@
     "author": "Moheeb Zara <moheeb.zara@signalwire.com>",
     "license": "ISC",
     "dependencies": {
-        "@signalwire/realtime-api": "^3.2.0",
+        "@signalwire/realtime-api": "^3.5.1",
         "dotenv": "^16.0.0"
     }
 }
