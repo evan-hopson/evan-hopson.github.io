@@ -31,7 +31,7 @@ div[class^="square-"] {
     display: flex;
     gap: 2.5vmin;
     background: #bbbbbba1;
-    padding: calc(1vmin + 15px);
+    padding: calc(1vmin + 10px);
     border-radius: 10px;
     position: fixed;
     bottom: 5%;
