@@ -1,12 +1,16 @@
-h1 {
-    text-align: center;
-    text-decoration: underline;
+html {
     display: flex;
-    margin: 0;
 }
 
 body {
     display: flex;
     margin: 0;
     justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    display: flex;
+    margin: 0;
 }
