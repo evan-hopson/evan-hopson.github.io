@@ -22,7 +22,7 @@ body {
 div[class^="square-"] {
     display: flex;
     box-shadow: 0 10px 16px 0 rgb(0 0 0 / 5%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-    padding: 25px;
+    padding: 15px;
     border-radius: 10px;
     background: #ffffffe6;
 }
