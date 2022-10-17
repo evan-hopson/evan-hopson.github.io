@@ -27,7 +27,7 @@ div[class^="square-"] {
     display: flex;
     gap: 2.5vmin;
     background: #c7c7c733;
-    padding: 20px;
+    padding: 25px;
     border-radius: 10px;
     position: fixed;
     bottom: 5%;
