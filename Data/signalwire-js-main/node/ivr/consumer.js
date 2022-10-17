@@ -3,9 +3,9 @@ let { Voice } = require('@signalwire/realtime-api')
 
 
 
-const projectId = cde81366-7a9c-414c-bc78-b2fb2bc6e8a9
-const token = PT23af0e5fc1f9eeed54281a53d5be31b849722f01f368fe1a
-const verifiedNumber = +12522756348
+const projectId = process.env.SIGNALWIRE_PROJECT_ID
+const token = process.env.SIGNALWIRE_TOKEN
+const verifiedNumber = process.env.VERIFIED_NUMBER
 
 
 const client = new Voice.Client({
