@@ -24,13 +24,15 @@ div[class^="square-"] {
     box-shadow: 0 10px 16px 0 rgb(0 0 0 / 5%), 0 6px 20px 0 rgb(0 0 0 / 19%);
     padding: 15px;
     border-radius: 10px;
-    background: #ffffffe6;
+    background: #abababad;
+    color: #FFF;
+    font-size: 22px;
 }
 
 .inner_center_container {
     display: flex;
     gap: 2.5vmin;
-    background: #bbbbbba1;
+    background: #9d9d9d7a;
     padding: calc(1vmin + 10px);
     border-radius: 10px;
     position: fixed;
