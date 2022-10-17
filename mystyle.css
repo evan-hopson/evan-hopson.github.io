@@ -16,6 +16,7 @@ body {
     width: 100vw;
     background-image: url("beach-mountains.webp");
     background-size: cover;
+    background-position: center;
 }
 
 div[class^="square-"] {
